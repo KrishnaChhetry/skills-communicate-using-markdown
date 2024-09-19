@@ -1,1 +1,4 @@
-![Teaser Images](https://imgs.search.brave.com/Su0tLO9Qefl_HktJrXEyTBVnvYFrOG1ftvuhxP9bFy0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL1Zpc3Vh/bENvbXB1dGluZ0lu/c3RpdHV0ZS9kaWZm/dXNpb24tZTJlLWZ0/L3Jhdy9tYWluL2Fz/c2V0cy90ZWFzZXJf/aW1hZ2VzLnBuZw)
+# This is a simple JavaScript program to print text to the console
+``` javascript
+console.log("Hello, World!");
+```
