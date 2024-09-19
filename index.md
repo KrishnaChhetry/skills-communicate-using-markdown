@@ -1,4 +1,6 @@
-# This is a simple JavaScript program to print text to the console
-``` javascript
-console.log("Hello, World!");
-```
+## Task List
+
+- [x] Write code for project
+- [x] Review the code
+- [ ] Submit the project
+
